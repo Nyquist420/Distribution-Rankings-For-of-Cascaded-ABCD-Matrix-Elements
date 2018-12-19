@@ -18,3 +18,5 @@ Summary of parameters (best fit distribution, mean, median, variance, skewness, 
 * **B_phase_summary.xlsx**- Summary Parameters for the Phase of the Cascade ABCD Matrix Element: B
 * **C_phase_summary.xlsx**- Summary Parameters for the Phase of the Cascade ABCD Matrix Element: C
 * **D_phase_summary.xlsx**- Summary Parameters for the Phase of the Cascade ABCD Matrix Element: D
+
+The dependence between the magnitude and phase for each of the PDF test cases and differential channel lengths can be found in the **Dependence.xlsx** file
