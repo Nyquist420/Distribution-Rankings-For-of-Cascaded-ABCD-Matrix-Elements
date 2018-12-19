@@ -9,7 +9,7 @@ Distribution Rankings For of Cascaded ABCD Matrix Elements Considering both Magn
 * **C_phase.xlsx**- Distribution Rankings for the Phase of the Cascade ABCD Matrix Element: C
 * **D_phase.xlsx**- Distribution Rankings for the Phase of the Cascade ABCD Matrix Element: D
 
-Summary of parameters (best fit distribution, mean, median, varaince, skewness, kurtosis, minumum value, maximum value, AIC and BIC) of the chosen distributions for the cascaded ABCD matrix elements considering both magnitude and phase file descriptions:
+Summary of parameters (best fit distribution, mean, median, variance, skewness, kurtosis, minimum value, maximum value, AIC and BIC) of the chosen distributions for the cascaded ABCD matrix elements considering both magnitude and phase file descriptions:
 * **A_mag_summary.xlsx**- Summary Parameters for the Magnitude of the Cascade ABCD Matrix Element: A
 * **B_mag_summary.xlsx**- Summary Parameters for the Magnitude of the Cascade ABCD Matrix Element: B
 * **C_mag_summary.xlsx**- Summary Parameters for the Magnitude of the Cascade ABCD Matrix Element: C
